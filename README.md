@@ -1,6 +1,6 @@
 ### Well, Hello there! My name is Muhammad Mukarram Arif. Currently making exciting projects!
 
-[giphy (3)](https://github.com/mukarramarif/mukarramarif/assets/96686328/513a4699-796c-4ac5-9195-3e4fe0485052)
+![giphy (3)](https://github.com/mukarramarif/mukarramarif/assets/96686328/513a4699-796c-4ac5-9195-3e4fe0485052)
 
 
 -Currently working on learning on API's and AI integration
