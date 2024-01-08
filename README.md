@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--START_SECTION:waka-->
 name: Mukarram's stats
 
 on:
@@ -12,11 +12,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: mukarramarif/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
+<!--END_SECTION:waka-->
 
 
             
