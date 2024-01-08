@@ -1,36 +1,14 @@
-### Hi there 👋
-<!--START_SECTION:waka-->
-name: Mukarram's stats
+### Well, Hello there! My name is Muhammad Mukarram Arif. Currently making exciting projects!
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: mukarramarif/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
+[giphy (3)](https://github.com/mukarramarif/mukarramarif/assets/96686328/513a4699-796c-4ac5-9195-3e4fe0485052)
 
 
-            
-<!--
-**mukarramarif/mukarramarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Currently working on learning on API's and AI integration
+-Worked on C++, Java, Web Developement
+-Next I'm going to learn spring boot for full-stack developement!
 
-Here are some ideas to get you started:
+Besides coding I like to play games and soccer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To connect with me here's me socials:
+https://www.linkedin.com/in/muhammadarif3/
+
