@@ -1,6 +1,6 @@
 ### Hi there 👋
-<!--START_SECTION:waka-->
-name: Waka Readme
+
+name: Mukarram's stats
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
+
 
 
             
