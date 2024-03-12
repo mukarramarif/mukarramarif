@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a flutter project called Hungry Hacks<br>👯 I’m looking to collaborate on Real Estate or Baseball projects<br>🤝 I’m looking for help with making more connection <br>🌱 I’m currently learning Flutter and cloud deployment<br>💬 Ask me about anything!<br>⚡ Fun fact I'm good at video games! And a decent engineer!
+🔭 I’m currently working on a flutter project called Hungry Hacks<br>👯 I’m looking to collaborate on Real Estate or Baseball projects<br>🤝 I’m looking for help with making more connections <br>🌱 I’m currently learning Flutter and cloud deployment<br>💬 Ask me about anything!<br>⚡ Fun fact I'm good at video games! And a decent engineer!
 
 
 ## 🌐 Socials:
