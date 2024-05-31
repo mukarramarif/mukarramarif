@@ -11,7 +11,24 @@
 ![](https://github-readme-stats.vercel.app/api?username=mukarramarif&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mukarramarif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramarif&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ <!--START_SECTION:waka-->
+ name: Work Stats Readme
 
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master 
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+<!--END_SECTION:waka-->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mukarramarif&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
