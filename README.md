@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a flutter project called Hungry Hacks<br>👯 I’m looking to collaborate on Game Engines or Graphics Programming<br>🤝 I’m looking for help with making more connections <br>🌱 I’m currently learning C++ Graphics API's and Vulkan!<br>💬 Ask me about anything!<br>⚡ Fun fact I'm good at video games! And a decent engineer!
+🔭 I’m currently working on Software Engineering and Networking Classes!<br>👯 I’m looking to collaborate on Game Engines or Graphics Programming<br>🤝 I’m looking for help with making more connections <br>🌱 I’m currently learning Backend with Java and Houdini for Unreal Engine!<br>💬 Ask me about anything!<br>⚡ Fun fact I'm good at video games! And a decent engineer!
 
 
 ## 🌐 Socials:
