@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Engineering and Networking Classes!<br>👯 I’m looking to collaborate on Game Engines or Graphics Programming<br>🤝 I’m looking for help with making more connections <br>🌱 I’m currently learning Backend with Java and Houdini for Unreal Engine!<br>💬 Ask me about anything!<br>⚡ Fun fact I'm good at video games! And a decent engineer!
+🔭 I’m currently working on Capstone and Network Security for my classes!<br>👯 I’m looking to collaborate on Game Engines or Graphics Programming<br>🤝 I’m looking for help with making more connections <br>🌱 I’m currently working on Django+NextJS AI Travel App and Vulkan Renderer!<br>💬 Ask me about anything!<br>⚡ Fun fact I'm good at video games! And a decent engineer!
 
 
 ## 🌐 Socials:
