@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Parallel Programming/AI Game Programming for my classes!<br>👯 I’m looking to collaborate on Game Engines or Graphics Programming<br>🤝 I’m looking for help with making more connections <br>🌱 I’m currently working on startup idea center around LibTorch and Electron and Im also creating my own Vulkan Renderer!<br>💬 Ask me about anything!<br>⚡ Fun fact I'm good at video games! And a decent engineer!
+🔭 I’m currently working on Graphics Programming and creating Plugins/Games in Godot!<br>👯 I’m looking to collaborate on Game Engines or Graphics Programming<br>🤝 I’m looking for help with making more connections <br>🌱 I’m currently working on startup idea center around LibTorch and Electron and Im also creating my own Vulkan Renderer!<br>💬 Ask me about anything!<br>⚡ Fun fact I'm good at video games! And a decent engineer!
 
 
 ## 🌐 Socials:
