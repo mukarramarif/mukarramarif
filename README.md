@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Hi 👋! My name is Muhammad, and I'm a backend systems and graphics programming enthusiast</h2>
+<h2 data-importer="text" align="center">Hi 👋! My name is Muhammad, and I'm a backend, systems, and graphics programming enthusiast</h2>
 
 ###
 
